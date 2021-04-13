@@ -1,0 +1,6 @@
+> Day 1
+    - git init -> to initialise 
+    - git add . -> to add all ( use /location/name for single file)
+    - git commit -m "message" -> saved in local branch
+    - git remote add origin https://github.com/ManzarEjaz/Compare.gi  
+    - git push -u origin master -> master is the branch and origin is syntax to push to servers
